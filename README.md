@@ -8,7 +8,7 @@ This Project is a participation in a dataDNA dataset challenge which was organis
 With the increasing rate of crimes, crime analysis is pivotal to enhance security in Washington DC for the protection of lives and properties of residents, and prevention of crime. The analysis is aimed at identifying patterns of crime and severity, uncovering trends over time, pointing out geographical crime hotspots and efficiency of solving crimes in washington DC in order to help equip the law enforcement agency with vital information to boost their capacity to combat crimes.
 
 
-## Analysis Objectives
+## Objectives
 The objectives of this project include the following;
 - Total Crimes Reported – Number of crimes committed in a given time period.
 - Crimes by Time of Day – Distribution of crimes by shift (Midnight, Day,Evening).
